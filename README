@@ -1,0 +1,9 @@
+jFreeChart (http://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.13/) and jCommon (http://www.jfree.org/jcommon/download/) libraries need to be included in the build path.
+
+"Harmonic Analyser.jar" is a pre-packaged file that can be run straight away with a Java runtime enviroment.
+
+"Source Files" contains all of the original source files of the program.
+
+The files within "Test Files" are some selcted .txt files that can be used test data to run the program.
+
+"Screenshots" folder just contains some screenshots of the GUI.
